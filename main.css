@@ -1,0 +1,62 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+.navbar {
+    background-color: #FFCC03;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.navbar-toggler {
+    background-color: #FFF9E1;
+}
+
+#cabecalho .nav .nav-link.active {
+    color: #FFCC03;
+    background-color: #fff;
+}
+
+.section-title {
+    font-family: "Raleway", sans-serif;
+}
+
+#sobre-o-restaurante,
+#cardapio {
+    background-color: #FFF9E1;
+}
+
+.text-colored {
+    color: #FFCC03;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button,
+#eventos button {
+    background-color: #FFCC03;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #FFCC03;
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
+.carousel-item img {
+    width:100%;
+}
+
